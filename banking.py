@@ -1,6 +1,4 @@
 accounts = {}
-
-# Generate a unique account number (starting from 1)
 account_counter = 1
 
 while True:
